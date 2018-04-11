@@ -1,1 +1,1 @@
-/* JavaScript to test github integration  test1*/
+/* JavaScript to test github integration  test2*/
